@@ -20,5 +20,3 @@ This **To-Do App** is a simple task management application built with **React.js
 - **Frontend:** React.js, Tailwind CSS  
 - **State Management:** useState Hook  
 - **Storage:** Local Storage  
-
----
