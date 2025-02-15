@@ -20,3 +20,22 @@ This **To-Do App** is a simple task management application built with **React.js
 - **Frontend:** React.js, Tailwind CSS  
 - **State Management:** useState Hook  
 - **Storage:** Local Storage  
+
+--- 
+
+## 🏆 Why I Built This
+As part of my **React learning journey**, I wanted to build a practical project that reinforces **state management, UI rendering, and user interactions.** This project helped me strengthen my **problem-solving skills** and boost my confidence in **frontend development.**
+
+--- 
+
+## 🤝 Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to:
+1️⃣ **Fork** this repository.
+2️⃣ **Create a new branch** (feature-new-improvement).
+3️⃣ **Commit your changes** (git commit -m "Add new feature").
+4️⃣ **Push to GitHub** and submit a **Pull Request.**
+
+--- 
+
+## 📜 License
+This project is **open-source** and available under the **MIT License.**
