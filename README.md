@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎯 To-Do App – My First React Project  
 
 This **To-Do App** is a simple task management application built with **React.js** and **Tailwind CSS**. It allows users to **add, complete, and delete tasks**, making it easier to stay organized and productive.  
@@ -20,3 +21,4 @@ This **To-Do App** is a simple task management application built with **React.js
 - **Frontend:** React.js, Tailwind CSS  
 - **State Management:** useState Hook  
 - **Storage:** Local Storage  
+
